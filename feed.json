@@ -1,19 +1,19 @@
 {
     "version": "https://jsonfeed.org/version/1.1",
-    "title": "East Vinewood Lyfe",
+    "title": "East Vinewood Lyfe RP",
     "home_page_url": "https://yourserverwebsite.com",
-    "feed_url": "https://yourgithub.com/feed.json",
+    "feed_url": "https://github/com/driizzyy/East-Vinewood-RP/feed.json",
     "items": [
         {
             "id": "1",
-            "date_published": "2023-10-26T12:00:00Z",
-            "title": "New Police Department Now Open!",
-            "content_text": "The Los Santos Police Department has been expanded. Roleplay scenarios and new jobs are now available for police officers.",
+            "date_published": "09-21-2025",
+            "title": "BETA VERSION OUT NOW!",
+            "content_text": "Beta version for East Vinewood Lyfe RP is out now for the public to enjoy",
             "image": "https://imgur.com/your-image-link.png"
         },
         {
             "id": "2",
-            "date_published": "2023-10-25T18:30:00Z",
+            "date_published": "09-21-2025",
             "title": "Welcome to East Vinewood Lyfe!",
             "content_text": "Please join our Discord for updates and rules. We are a community-built server based on the Qbox Project."
         }
